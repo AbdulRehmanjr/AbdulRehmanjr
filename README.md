@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdulRehmanjr
-- 👀 I’m interested in 
-- 🌱 I’m currently learning programming languages
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Designing
+- 🌱 I’m currently learning Microservices
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me abdulrehman2020white@gmail.com
 
 <!---
