@@ -1,57 +1,154 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
-<h3 align="center">Nextjs & T3Stack developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdulRehmanjr&label=Profile%20views&color=0e75b6&style=flat" alt="AbdulRehmanjr" /> </p>
+<!-- Header Image -->
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdulRehmanjr&theme=monokai" alt="AbdulRehmanjr" /></a> </p>
+<!-- Greeting -->
+<h1 align="center">
+  Hi there, I'm Abdul Rehman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<h3 align="center">A Passionate Next.js & T3 Stack Developer</h3>
 
-- 🔭 I’m currently working on [Booking tool](https://vercel.com/abdul-rehmans-projects-fb4f5019/arias-rental-app)
-- 🌱 I’m currently learning **Nextjs & T3Stack**
-- 💬 Ask me about **Reactjs, Nextjs, tRPC, Prisma, next-auth**
-- 📫 How to reach me **abdulrehman2020white@gmail.com**
-
-<div> <a href="https://github.com/AbdulRehmanjr" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:abdulrehman2020white@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/springio-icon.svg" alt="Spring" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nginx-original.svg" alt="Nginx" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Static/nextjs-2.svg" alt="Nextjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdulRehmanjr&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehmanjr&layout=compact&theme=monokai" alt=AbdulRehmanjr />
+<!-- GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdulRehmanjr&theme=monokai&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" /></a>
+</p>
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulRehmanjr&show_icons=true&locale=en&theme=monokai" alt="AbdulRehmanjr" /></p>
+<!-- Social Links -->
+<p align="center">
+  <a href="mailto:abdulrehman2020white@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/AbdulRehmanjr"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehmanjr&theme=monokai" alt="AbdulRehmanjr" /></p>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/AbdulRehmanjr">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdulRehmanjr&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdulRehmanjr&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdulRehmanjr&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdulRehmanjr&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulRehmanjr&theme=2077" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehmanjr&theme=monokai"/>
+### About Me
+
+- 🔭 I’m currently working on [**Booking Tool**](https://sshea-platform.up.railway.app/)
+- 🌱 I’m currently learning **Next.js & T3 Stack**
+- 💬 Ask me about **React.js, Next.js, tRPC, Prisma, next-auth**
+- 📫 How to reach me: **[abdulrehman2020white@gmail.com](mailto:abdulrehman2020white@gmail.com)**
+- ⚡ Fun fact: I love exploring new web technologies and frameworks!
+
+---
+
+### Languages and Tools
+
+<!-- Programming Languages -->
+<h4>Programming Languages</h4>
+<p>
+  <a href="https://www.cplusplus.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" />
+  </a>
+</p>
+
+<!-- Frontend Development -->
+<h4>Frontend Development</h4>
+<p>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/nextjs.png" alt="Next.js" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
+  </a>
+</p>
+
+<!-- Backend Development -->
+<h4>Backend Development</h4>
+<p>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" />
+  </a>
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" />
+  </a>
+</p>
+
+<!-- Databases -->
+<h4>Databases</h4>
+<p>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" />
+  </a>
+</p>
+
+<!-- DevOps & Tools -->
+<h4>DevOps & Tools</h4>
+<p>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
+  </a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman" />
+  </a>
+</p>
+
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRehmanjr&show_icons=true&theme=monokai&hide_border=true" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehmanjr&layout=compact&theme=monokai&hide_border=true" alt="Top Languages" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehmanjr&theme=monokai&hide_border=true" alt="GitHub Streak" height="180em"/>
+</p>
+
+---
+
+### 📊 More Stats
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdulRehmanjr&theme=monokai&hide_border=true" alt="Stats Card" height="180em"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdulRehmanjr&theme=monokai&hide_border=true" alt="Productive Time" height="180em"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdulRehmanjr&theme=monokai&hide_border=true" alt="Most Commit Language" height="180em"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdulRehmanjr&theme=monokai&hide_border=true" alt="Repos per Language" height="180em"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulRehmanjr&theme=monokai&hide_border=true" alt="Profile Details" height="180em"/>
+</p>
+
+---
+
+### 🔥 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehmanjr&theme=monokai&hide_border=true" alt="Activity Graph"/>
+</p>
