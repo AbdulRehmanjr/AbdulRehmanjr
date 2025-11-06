@@ -27,7 +27,7 @@
 
 ### About Me
 
-- 🔭 I’m currently working on [**Booking Tool**](https://sshea-platform.up.railway.app/)
+- 🔭 I’m currently working on [**Booking Tool**](https://www.truly-seychelles.com/)
 - 🌱 I’m currently learning **Next.js & T3 Stack**
 - 💬 Ask me about **React.js, Next.js, tRPC, Prisma, next-auth**
 - 📫 How to reach me: **[abdulrehman2020white@gmail.com](mailto:abdulrehman2020white@gmail.com)**
