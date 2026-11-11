@@ -1,154 +1,97 @@
-<!-- Header Image -->
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%"/>
-
-<!-- Greeting -->
-<h1 align="center">
-  Hi there, I'm Abdul Rehman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<h3 align="center">A Passionate Next.js & T3 Stack Developer</h3>
-
-<!-- Profile Views -->
+<div align="center">
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · abdulrehmanjr</sub></p>
+<h1>Abdul Rehman</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Next.js dev skilled in Next.js, tRPC, PostgreSQL, Prisma, NextAuth.js, &amp; Railway. I craft scalable, user-focused web apps. Check my projects.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Pakistan · Building at Kolibri Business</sub></p>
+<p><a href="https://github.com/abdulrehmanjr">GitHub</a> &nbsp;·&nbsp; <a href="https://devspy.netlify.app/">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/86543958?u=724ff7f4eceeeace5c648e55930ffc515a5a204c&amp;v=4" width="180" alt="Abdul Rehman GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
+<h2>What teams can evaluate quickly</h2>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · Jupyter Notebook · HTML</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>29 repositories · 17 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>5,722 contributions · 301 active days</p></td>
+</tr>
+</table>
+<p><sub>Next.js dev skilled in Next.js, tRPC, PostgreSQL, Prisma, NextAuth.js, &amp; Railway. I craft scalable, user-focused web apps. Check my projects.</sub></p>
+<h2>Proof at a glance</h2>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>29</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>17</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>5,722</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>14</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulRehmanjr&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=abdulrehmanjr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86543958%3Fu%3D724ff7f4eceeeace5c648e55930ffc515a5a204c%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=abdulrehmanjr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86543958%3Fu%3D724ff7f4eceeeace5c648e55930ffc515a5a204c%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Abdul Rehman GitHub proof metrics" />
+</picture>
 </p>
-
-<!-- GitHub Trophies -->
+<h2>Selected work</h2>
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=abdulrehmanjr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86543958%3Fu%3D724ff7f4eceeeace5c648e55930ffc515a5a204c%26v%3D4&repos=abdulrehmanjr%2Fexamportal%2Cabdulrehmanjr%2Fblob-backend%2Cabdulrehmanjr%2Fspring-back-end%2Cabdulrehmanjr%2FAbdulRehmanjr&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=abdulrehmanjr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86543958%3Fu%3D724ff7f4eceeeace5c648e55930ffc515a5a204c%26v%3D4&repos=abdulrehmanjr%2Fexamportal%2Cabdulrehmanjr%2Fblob-backend%2Cabdulrehmanjr%2Fspring-back-end%2Cabdulrehmanjr%2FAbdulRehmanjr&v=recruiter-projects-1&mode=dark" width="100%" alt="Abdul Rehman selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/AbdulRehmanjr/examportal">examportal</a></h3>
+<p>A selected public project.</p>
+<p><sub>TypeScript · ⭐ 3 · 🍴 0</sub></p>
+<p><a href="https://github.com/AbdulRehmanjr/examportal">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/AbdulRehmanjr/blob-backend">blob-backend</a></h3><p>A selected public project.</p><p><sub>Java · ⭐ 2</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/AbdulRehmanjr/spring-back-end">spring-back-end</a></h3><p>A selected public project.</p><p><sub>Java · ⭐ 2</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/AbdulRehmanjr/AbdulRehmanjr">AbdulRehmanjr</a></h3><p>Config files for my GitHub profile.</p><p><sub>Open source · ⭐ 2</sub></p></td>
+</tr>
+</table>
+<h2>Technical toolkit</h2>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdulRehmanjr&theme=monokai&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" /></a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=abdulrehmanjr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86543958%3Fu%3D724ff7f4eceeeace5c648e55930ffc515a5a204c%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=abdulrehmanjr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86543958%3Fu%3D724ff7f4eceeeace5c648e55930ffc515a5a204c%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Abdul Rehman technology stack" />
+</picture>
 </p>
-
-<!-- Social Links -->
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>40% of public code</sub></td>
+<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>34% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>9% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>7% of public code</sub></td>
+<td width="20%" align="center"><strong>Java</strong><br /><sub>7% of public code</sub></td>
+</tr>
+</table>
+<h2>Consistency signal</h2>
 <p align="center">
-  <a href="mailto:abdulrehman2020white@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/AbdulRehmanjr"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=abdulrehmanjr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86543958%3Fu%3D724ff7f4eceeeace5c648e55930ffc515a5a204c%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=abdulrehmanjr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86543958%3Fu%3D724ff7f4eceeeace5c648e55930ffc515a5a204c%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Abdul Rehman contribution activity" />
+</picture>
 </p>
-
----
-
-### About Me
-
-- 🔭 I’m currently working on [**Booking Tool**](https://www.truly-seychelles.com/)
-- 🌱 I’m currently learning **Next.js & T3 Stack**
-- 💬 Ask me about **React.js, Next.js, tRPC, Prisma, next-auth**
-- 📫 How to reach me: **[abdulrehman2020white@gmail.com](mailto:abdulrehman2020white@gmail.com)**
-- ⚡ Fun fact: I love exploring new web technologies and frameworks!
-
----
-
-### Languages and Tools
-
-<!-- Programming Languages -->
-<h4>Programming Languages</h4>
-<p>
-  <a href="https://www.cplusplus.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" />
-  </a>
-</p>
-
-<!-- Frontend Development -->
-<h4>Frontend Development</h4>
-<p>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/nextjs.png" alt="Next.js" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
-  </a>
-</p>
-
-<!-- Backend Development -->
-<h4>Backend Development</h4>
-<p>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" />
-  </a>
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" />
-  </a>
-</p>
-
-<!-- Databases -->
-<h4>Databases</h4>
-<p>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" />
-  </a>
-</p>
-
-<!-- DevOps & Tools -->
-<h4>DevOps & Tools</h4>
-<p>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
-  </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" />
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman" />
-  </a>
-</p>
-
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRehmanjr&show_icons=true&theme=monokai&hide_border=true" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehmanjr&layout=compact&theme=monokai&hide_border=true" alt="Top Languages" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehmanjr&theme=monokai&hide_border=true" alt="GitHub Streak" height="180em"/>
-</p>
-
----
-
-### 📊 More Stats
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdulRehmanjr&theme=monokai&hide_border=true" alt="Stats Card" height="180em"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdulRehmanjr&theme=monokai&hide_border=true" alt="Productive Time" height="180em"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdulRehmanjr&theme=monokai&hide_border=true" alt="Most Commit Language" height="180em"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdulRehmanjr&theme=monokai&hide_border=true" alt="Repos per Language" height="180em"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulRehmanjr&theme=monokai&hide_border=true" alt="Profile Details" height="180em"/>
-</p>
-
----
-
-### 🔥 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehmanjr&theme=monokai&hide_border=true" alt="Activity Graph"/>
-</p>
+<hr />
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/abdulrehmanjr">GitHub</a><br /><a href="https://devspy.netlify.app/">Website</a></td>
+</tr>
+</table>
+<p align="center"><sub>Abdul Rehman · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
